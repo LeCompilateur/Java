@@ -51,6 +51,7 @@ public class Switch {
 						
 					case 5  : 
 						clavier.close();
+						System.out.println(" Au revoir à la prochaine !! ");
 						System.exit(0);
 						break;
 						
